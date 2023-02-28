@@ -1,0 +1,26 @@
+# Blender 3.3.4 MTL File: 'None'
+# www.blender.org
+
+newmtl toufa
+map_Kd Texture/toufa.jpg
+
+newmtl pifeng
+map_Kd Texture/pifeng2.jpg
+
+newmtl pifu
+map_Kd Texture/yifu.jpg
+
+newmtl yanbai
+map_Kd Texture/lian.jpg
+
+newmtl yanjing
+map_Kd Texture/toufa.jpg
+
+newmtl lian
+map_Kd Texture/lian.jpg
+
+newmtl yifu
+map_Kd Texture/yifu.jpg
+
+newmtl biaoqing
+map_Kd Texture/biaoqing.png
